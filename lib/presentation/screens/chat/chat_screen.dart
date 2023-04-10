@@ -17,7 +17,7 @@ class ChatScreen extends StatelessWidget {
                 "https://avatars.githubusercontent.com/u/26844982?v=4"),
           ),
         ),
-        title: const Text("Hola"),
+        title: const Text("Mi Amor"),
         centerTitle: false,
       ),
       body: _ChatView(),
